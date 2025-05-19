@@ -4,7 +4,7 @@ This project presents a Power BI dashboard analyzing global and regional trends 
 
 > _“By 2030, reduce by one third premature mortality from noncommunicable diseases through prevention and treatment and promote mental health and well-being.”_ – **UN SDG 3.4.1**
 
----
+
 
 ## Project Objectives
 
@@ -13,7 +13,7 @@ This project presents a Power BI dashboard analyzing global and regional trends 
 - Highlight disparities in **gender-based mortality rates**.
 - Enable data-driven insights into **public health trends**, priorities, and inequalities.
 
----
+
 
 ## Dashboard Overview
 
@@ -29,7 +29,7 @@ The interactive Power BI dashboard includes:
 
 Each view allows users to filter by year and toggle between different measures using dynamic Fields Parameters.
 
----
+
 
 ## Tools & Technologies
 
@@ -38,16 +38,27 @@ Each view allows users to filter by year and toggle between different measures u
   - Dynamic visuals (line charts, bar charts, stacked visuals)
   - Interactive filtering and tooltips
 
----
+
 
 ## Key Insights
 
 - **Africa and Western Pacific** regions show consistently high premature mortality rates.
 - **Males are disproportionately affected** by premature NCD deaths compared to females across all regions.
-- Some countries are on track to meet the **SDG 3.4.1 target**, while others are stagnating or regressing.
 - Data variability highlights the need for **improved health data systems** in low-resource settings.
 
----
 
-## 📁 Repository Structure
+
+
+## 📸 Dashboard Preview
+
+![Dashboard Preview](./images/ncd_dashboard3.PNG)
+
+
+## Resources & References
+
+- 📂 WHO Data Source: [WHO Indicator NCDMORT3070](https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/ncd-mortality)
+
+
+
+
 
